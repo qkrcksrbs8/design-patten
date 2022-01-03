@@ -1,4 +1,4 @@
-package cg.park.designpatten;
+package cg.park.designpattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package cg.park.designpatten.designpatten.strategy;
+package cg.park.designpattern.strategy;
 
 public abstract class Chair {
     Moves moves;

@@ -1,8 +1,9 @@
-package cg.park.designpatten.designpatten.strategy;
+package cg.park.designpattern.strategy;
 
 public class RockingChair extends Chair {
     public RockingChair() {
-        moves = new MovingChair();
+        moves = new dontMovingChair();
         sounds = new RockingChairSound();
     }
+    public void RockingChairSound(){};
 }
